@@ -10,3 +10,6 @@ Student Dataset (http://bit.ly/w--datadata)
 
 # Lab Environment:
 Jupyter Notebook
+
+# Code:
+https://github.com/msharma043510/TSF/blob/master/Linear_Regression.ipynb
