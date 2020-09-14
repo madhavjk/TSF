@@ -12,4 +12,4 @@ Student Dataset (http://bit.ly/w--datadata)
 Jupyter Notebook
 
 # Code:
-https://github.com/msharma043510/TSF/blob/master/Linear_Regression.ipynb
+https://github.com/msharma043510/TSF/blob/master/Linear_regression.ipynb
