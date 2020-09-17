@@ -20,3 +20,4 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 # Dataset:
 
 # Code:
+https://github.com/msharma043510/TSF/blob/master/K-Means%20Clustering/K-Means%20Clustering.ipynb
