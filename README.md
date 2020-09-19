@@ -22,3 +22,15 @@ Iris Dataset(https://github.com/msharma043510/TSF/blob/master/K-Means%20Clusteri
 
 ### Code:
 https://github.com/msharma043510/TSF/blob/master/K-Means%20Clustering/K-Means%20Clustering.ipynb
+
+# [3] To Explore Decision Tree
+
+### Description:
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+### Dataset:
+Iris Dataset(https://github.com/msharma043510/TSF/blob/master/Decision%20Tree/Iris.csv)
+
+### Code:
+https://github.com/msharma043510/TSF/blob/master/Decision%20Tree/Decision_Tree.ipynb
+
