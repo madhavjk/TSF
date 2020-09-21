@@ -34,3 +34,13 @@ Iris Dataset(https://github.com/msharma043510/TSF/blob/master/Decision%20Tree/Ir
 ### Code:
 https://github.com/msharma043510/TSF/blob/master/Decision%20Tree/Decision_Tree.ipynb
 
+# [4] To Explore Business Analytics
+
+### Description:
+
+#### Dataset:
+SampleSuperStore(https://github.com/msharma043510/TSF/blob/master/SampleSuperstore.csv)
+
+### Code:
+https://github.com/msharma043510/TSF/blob/master/BusinessAnalytics1.ipynb
+
